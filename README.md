@@ -1,3 +1,2 @@
-commit test
-commit test
-commit test
+# Go再入門
+- http://golang.jp/go_tutorial
